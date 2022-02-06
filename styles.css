@@ -1,0 +1,80 @@
+body {
+    background-color: #B8405E;
+    text-align: center;
+}
+
+h1 {
+    color: #EEE6CE;
+} 
+
+.buttons {
+    margin:auto;
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+}
+.button--green {
+	background:linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%);
+	background-color:#2EB086;
+	border-radius:28px;
+	border:1px solid #2EB086;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Georgia;
+	font-size:28px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+	margin-bottom:50px;
+}
+
+.button--blue {
+	background:linear-gradient(to bottom, #313552 5%, #313552 100%);
+	background-color:#313552;
+	border-radius:28px;
+	border:1px solid #313552;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Georgia;
+	font-size:28px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+	margin-bottom:50px;
+
+}
+
+.button--rose {
+	background:linear-gradient(to bottom, #F3C5C5 5%, #F3C5C5 100%);
+	background-color:#F3C5C5;
+	border-radius:28px;
+	border:1px solid #F3C5C5;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Georgia;
+	font-size:28px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #F3C5C5;
+	margin-bottom:50px;
+}
+
+.button--random {
+	background:linear-gradient(to bottom, #FF9F45 5%, #FF9F45 100%);
+	background-color:#FF9F45;
+	border-radius:28px;
+	border:1px solid #FF9F45;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Georgia;
+	font-size:28px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #FF9F45;
+}
+
+
